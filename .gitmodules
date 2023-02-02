@@ -1,0 +1,3 @@
+[submodule "component/componentss"]
+	path = component/componentss
+	url = https://github.com/bolunlv/componentss.git
