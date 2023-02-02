@@ -1,7 +1,0 @@
-[submodule "eoipluscommon"]
-	path = eoipluscommon
-	url = git@code.eoitek.net:ndcr/fe/eoipluscommon.git
-	branch = dev-docs
-[submodule "componentss"]
-	path = componentss
-	url = https://github.com/bolunlv/componentss.git
