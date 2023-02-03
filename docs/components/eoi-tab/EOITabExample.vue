@@ -6,7 +6,7 @@
   </EOITab>
 </template>
 <script setup lang="ts">
-  import EOITab from '../../../componentss/component/EoiPlus';
+  import EOITab from '../../../component/componentss/component/EoiPlus';
   import { ref, markRaw } from 'vue'
   import { ElInput, ElDatePicker } from 'element-plus';
 
