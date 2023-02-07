@@ -6,6 +6,7 @@ import { ElementPlusResolver } from 'unplugin-vue-components/resolvers'
 export default defineConfig({
   // ...
   plugins: [
+    DefineOptions(),
     // ...
     AutoImport({
       resolvers: [ElementPlusResolver()],
